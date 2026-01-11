@@ -1,0 +1,17 @@
+{
+  "vacuum_square_x_size": 15,
+  "vacuum_square_y_size": 15,
+  "vacuum_square_abrundung": 2,
+  "vacuum_square_x_cnt": 7,
+  "vacuum_square_y_cnt": 9,
+  "vacuum_slot_depth": 2.6,
+  "vacuum_slot_width": 3.6,
+  "vacuum_z_size": 20,
+  "vacuum_fase": 1,
+  "vacuum_holder_width": 18.6,
+  "vacuum_holder_slot_width": 6.2,
+  "vacuum_wand_width": 5,
+  "material_thickness": 20,
+  "dog_bone_mode": false,
+  "milling_tool_diameter": 6
+}
